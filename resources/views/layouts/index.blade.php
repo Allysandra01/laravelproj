@@ -18,6 +18,7 @@
                         Create Post
                     </button>
 
+                    <h1 class="text-2xl font-bold mt-4 mb-6">Posts List</h1>
 
                     <!-- Table -->
                     <div class="mt-6 bg-white shadow rounded">
